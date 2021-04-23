@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[Instagram](https://www.instagram.com/robbiejdunne/)
+[Twitter](https://www.twitter.com/robbiejdunne/)
